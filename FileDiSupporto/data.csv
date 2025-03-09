@@ -1,0 +1,4 @@
+Line,Type,Capacity,UnitCost,Saturation
+A,automated,1000,1.2,0.80
+B,assisted,2000,1.15,0.75
+C,automated,1000,1.21,0.55
